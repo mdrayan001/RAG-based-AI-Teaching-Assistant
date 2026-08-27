@@ -1,0 +1,17 @@
+# Large raw video files (>100MB GitHub limit)
+rag_sample-videos/
+videos/
+*.webm
+*.mp4
+*.mkv
+
+# Python environment and cache
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# System files
+.DS_Store
+Thumbs.db
